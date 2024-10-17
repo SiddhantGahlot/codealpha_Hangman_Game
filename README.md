@@ -54,6 +54,6 @@
 **Feel free to fork this repository and create pull requests with new features, improvements, or bug fixes.**
 
 ## License
-**This project is licensed under the MIT License. See the [LICENSE]() file for details.**
+**This project is licensed under the MIT License. See the [LICENSE](https://github.com/SiddhantGahlot/codealpha_Hangman_Game/blob/main/LICENSE) file for details.**
 
 
